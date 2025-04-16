@@ -1,0 +1,20 @@
+* {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    color:brown;
+    font: size 300px;
+    font-family:verdana;
+}
+
+p {
+    text-align: left;
+}
+
+/*ini adalah contoh bentuk komentar dalam css*/
+h2 {
+    margin-left: 130px;
+    color:blueviolet;
+}
